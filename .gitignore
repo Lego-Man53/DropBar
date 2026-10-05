@@ -1,0 +1,4 @@
+.build/
+dist/
+DropBar.app/
+.DS_Store
