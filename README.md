@@ -2,7 +2,7 @@
 
 **Drag. Drop. AirDrop.** A lightweight, open-source Mac menu bar app that makes sending files to nearby Apple devices easier.
 
-[Download the preview](https://github.com/Lego-Man53/DropBar/releases/tag/v0.1.0) · [How to use](docs/USAGE.md) · [Installation help](docs/INSTALLATION.md) · [Report a bug](https://github.com/Lego-Man53/DropBar/issues)
+[Download the preview](https://github.com/Lego-Man53/DropBar/releases/tag/v0.1.0) · [How to use](docs/USAGE.md) · [Installation help](docs/INSTALLATION.md) · [Report a bug](https://github.com/Lego-Man53/DropBar/issues) · [☕ Buy me a coffee](https://buymeacoffee.com/legoman53)
 
 ## Download and install
 
@@ -57,6 +57,14 @@ open DropBar.app
 ```
 
 See [development notes](docs/DEVELOPMENT.md) for testing and release packaging.
+
+## Support DropBar
+
+DropBar is free and open source. If you find it useful and would like to support continued development, you can:
+
+[☕ Buy me a coffee](https://buymeacoffee.com/legoman53)
+
+Support is completely optional and helps me continue improving DropBar and building other open-source projects.
 
 ## Current status
 
